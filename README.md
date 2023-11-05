@@ -32,6 +32,7 @@ There are combined files that you can use in any 3D-printing service like [JLCPC
 ## Acknowledgements
 
 As always this project wouldn't be possible without standing on the shoulders of giants. I took a lot of inspiration from braindefender's [KLP Lame keycaps](https://github.com/braindefender/KLP-Lame-Keycaps/). Although I feel like my keycaps are different enough to be a distinct and separate project, I still want to mention and thank braindefender for his excellent work.
+Another source of inspiration was [Pseudoku's Distorted Ellipsoidal Saddle (DES) and Chicago Stenographer](https://github.com/toniz4/PseudoMakeMeKeyCapProfiles).
 
 ## License
 
