@@ -1,3 +1,5 @@
+# - THIS IS IN BETA STAGE, TEST PRINTS ARE ON THE WAY (ANYONE WANTING TO DO TEST PRINTS IS MORE THAN WELCOME TO DO SO) -
+
 ![](./assets/CLP_Keycaps.png)
 
 # CLP Contoured Low Profile MX Keycaps
