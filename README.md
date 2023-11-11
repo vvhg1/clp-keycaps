@@ -41,7 +41,8 @@ There are currently 19 different keycap models available:
 
 ## Images & Photos
 
-![](./assets/CLP_KeycapsFisk.png)
+- coming soon, stay tuned!
+  ![](./assets/CLP_KeycapsFisk.png)
 
 ## Acknowledgements
 
