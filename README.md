@@ -45,7 +45,7 @@ There are currently 19 different keycap models available:
 
 ## Acknowledgements
 
-As always this project wouldn't be possible without standing on the shoulders of giants. I took a lot of inspiration from braindefender's [KLP Lame keycaps](https://github.com/braindefender/KLP-Lame-Keycaps/). And sure enough, he was so kind to also provide excellent feedback and did a lot of test prints to check if the models are printable and work as expected. Thanks a lot, this would not have turned out half as good without you!
+As always this project wouldn't be possible without standing on the shoulders of giants. I took a lot of inspiration from braindefender's [KLP Lame keycaps](https://github.com/braindefender/KLP-Lame-Keycaps/). And sure enough, he was so kind to also provide excellent feedback (he alsocaught some nasty errors I overlooked!) and a bunch of tips and ideas. His experience with 3D printing keycaps was invaluable. He also did (well, still doing actually) a lot of test prints to check if the models are printable and work as expected. Thanks a lot, this would not have been possible without you, at least not at this level of quality and diversity!
 
 Another source of inspiration was [Pseudoku's Distorted Ellipsoidal Saddle (DES) and Chicago Stenographer](https://github.com/toniz4/PseudoMakeMeKeyCapProfiles).
 
