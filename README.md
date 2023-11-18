@@ -38,11 +38,24 @@ There are currently 19 different keycap models available:
 
 - For the best results, use a resin printer with a high resolution, or an online printing service like [JLCPCB](https://3d.jlcpcb.com/3d-printing/stereolithography) or [PCBWay](https://www.pcbway.com/rapid-prototyping/3d-printing/). JLCPCB SLS Nylon seems to work well too. MJF Nylon should probably work, but is untested and slightly more expensive.
 - If you want to print the keycaps yourself, you can use the STL files in the `stl` folder. If you want to print multiple keycaps at once, you can use the STL files in the `stl/assemblies` folder. These files are already combined and ready to print.
+- Some tips for FDM printing (thanks to [u/justapcgamer](https://www.reddit.com/user/justapcgamer/)):
+  - use a 0.2mm nozzle, both surface feel and the dimensional accuracy of the keycap stem is so much better
+  - if you cannot, use the finest layer height you are comfortable with, but 0.4mm nozzle prints generally require a good bit of post processing like trimming the insides of the stem
+  - use as low of a layer height as you can
+  - print on bottom edge of one of the sides at an angle between 60-80 degrees, depending on which slice has a surface quality you like. 80 will result in a better surface but overhangs are rough. This image is 70 degrees: ![](./assets/fdm_print_angle.png)
+  - do not use supports for the inside of the stem, mark it for no supports in the slicer
+  - use supports for the top edge so the underside doesn't sag and interfere with the switch
+  - print in batches, if printing single keycap, increase the cooling. Since its small, if you print multiple, there's adequate time for cooling which results in better surfaces
+  - if your printers toolhead has better cooling on one side, make sure the keycaps surface (side that touches your finger) faces the better cooled side for a better finish.
+  - matte filaments will feel a bit rough, silk pla will feel slippery, I find normal pla gives the best finish.
 
 ## Images & Photos
 
-- coming soon, stay tuned!
-  ![](./assets/CLP_KeycapsFisk.png)
+so how low profile are these keycaps?
+![](./assets/bee.png)
+
+source: [u/braindefender](https://www.reddit.com/user/braindefender/)
+![](./assets/CLP_KeycapsFisk.png)
 
 ## Acknowledgements
 
