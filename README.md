@@ -53,7 +53,13 @@ There are currently 19 different keycap models available:
 
 so how low profile are these keycaps?
 ![](./assets/bee.png)
+source: [u/braindefender](https://www.reddit.com/user/braindefender/)
 
+freshly hatched keycaps:
+![](./assets/justprinted.png)
+source: [u/braindefender](https://www.reddit.com/user/braindefender/)
+
+![](./assets/flow.png)
 source: [u/braindefender](https://www.reddit.com/user/braindefender/)
 ![](./assets/CLP_KeycapsFisk.png)
 
