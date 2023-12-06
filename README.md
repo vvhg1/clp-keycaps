@@ -1,7 +1,3 @@
-## - THIS IS IN BETA STAGE, TEST PRINTS ARE ON THE WAY -
-
-### - (ANYONE WANTING TO DO TEST PRINTS IS MORE THAN WELCOME TO DO SO) -
-
 ![](./assets/CLP_Keycaps.png)
 
 # CLP Contoured Low Profile MX Keycaps
@@ -49,7 +45,12 @@ There are currently 19 different keycap models available:
   - if your printers toolhead has better cooling on one side, make sure the keycaps surface (side that touches your finger) faces the better cooled side for a better finish.
   - matte filaments will feel a bit rough, silk pla will feel slippery, I find normal pla gives the best finish.
 
-## Images & Photos
+## Images
+
+SLS Nylon keycaps:
+![](./assets/sls_keycaps1.png)
+![](./assets/sls_keycaps2.png)
+![](./assets/sls_keycaps_fisk1.png)
 
 so how low profile are these keycaps?
 ![](./assets/bee.png)
